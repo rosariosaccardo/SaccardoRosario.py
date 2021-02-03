@@ -4,7 +4,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 input=str
 # apriamo il file in lettura
-f = open("dati4.txt", 'r')
+f = open("dati.txt", 'r')
 
 '''
 si potrebbe usare il metodo readlines 
