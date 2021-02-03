@@ -7,7 +7,7 @@ input=str
 # associo ad f il file, indico con "w" il tipo di operazione
 # così lo aprirà in scrittura (write)
 
-f = open("dati4.txt", 'w')
+f = open("dati.txt", 'w')
 
 # definiamo una variabile stringa da riempire con i dati che poi scriverò
 
