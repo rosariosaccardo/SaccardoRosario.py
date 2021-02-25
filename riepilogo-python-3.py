@@ -1,0 +1,5 @@
+nome=input("inserisci il nome")
+cognome=input("inserisci il cognome ")
+caratterinome=len(nome)
+carattericognome=len(cognome)
+print("il nome e il cognome hanno", caratterinome+carattericognome,"caratteri")
